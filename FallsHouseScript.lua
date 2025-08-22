@@ -14,7 +14,7 @@ end
 
 -- Основная функция дропа дома
 local function dropHouse(targetPosition)
-    local houseId = 1028392 -- ID стандартного домика в Roblox (можно заменить на любой другой)
+    local houseId = 8959904556 -- ID стандартного домика в Roblox (можно заменить на любой другой)
     local houseModel = loadHouseModel(houseId)
     
     if not houseModel then
